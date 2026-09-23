@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+2026-09-18_*.zip
+2026-09-23_*.zip
+2026-09-18_install-manifest.json
+2026-09-23_install-manifest.json
+2026-09-23_revision-baseline.json
+2026-09-18_test_gate_report.py
+2026-09-18_设计与验证说明.md

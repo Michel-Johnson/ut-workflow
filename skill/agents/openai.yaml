@@ -1,0 +1,4 @@
+interface:
+  display_name: "UT 生成与验证"
+  short_description: "按独立单元测试规范生成、维护、执行和审查 UT，提供真实证据与验收结论"
+  default_prompt: "使用 $ut-workflow 完成指定范围的单元测试任务，保持生产逻辑不变并报告验证证据。"
